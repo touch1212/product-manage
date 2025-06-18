@@ -131,6 +131,13 @@ class ProductController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $product = Product::find($id);
+        if (is_file($product->image) && file_exists($product->image)) {
+            unlink($product->image);
+        }
+        $product->delete();
+
+        session()->flash('success', 'Product Delete successfully!');
+        return redirect()->route('product.index');
     }
 }
