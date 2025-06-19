@@ -54,8 +54,11 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [touchsitbd@gmail.com](mailto:touchsitbd@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Upwork: https://upwork.com/freelancers/saidulislam123
+Upwork laravel service: [https://upwork.com/freelancers/saidulislam123](https://www.upwork.com/services/product/development-it-full-stack-web-developer-skilled-in-php-laravel-html-css-and-bootstrap-1866028474466430808?ref=project_share](https://www.upwork.com/services/product/development-it-full-stack-web-developer-skilled-in-php-laravel-html-css-and-bootstrap-1866028474466430808?ref=project_share)
