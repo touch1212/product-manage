@@ -84,8 +84,9 @@ class CategoryController extends Controller
             if (is_file($categories->image) && file_exists($categories->image)) {
                     unlink($categories->image);
                 }
-           $imgname = Str::random(20) . '.' . $request->file('image')->getClientOriginalExtension();
-           $request->image->move('categories', $imgname);
+           $name = Str::random(20) . '.' . $request->file('image')->getClientOriginalExtension();
+           $request->image->move('categories', $name);
+           $imgname = 'categories/'.$name;
         }else{
             $imgname = $categories->image;
         }
